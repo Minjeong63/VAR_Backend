@@ -42,9 +42,11 @@ VIP And Rendezvous는 워렌 버핏의 파워 런치 옥션에 영감을 받아 
 ## ERD
 ![VAR](https://github.com/user-attachments/assets/97b186e4-0870-413e-a4eb-6f9fa4b9ad4f)
 <br>
+<br>
 
 ## 와이어프레임
 https://excalidraw.com/
+<br>
 <br>
 
 ## 기능 개발 프로세스
