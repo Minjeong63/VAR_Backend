@@ -24,6 +24,7 @@ VIP And Rendezvous는 워렌 버핏의 파워 런치 옥션에 영감을 받아 
 ## 프로젝트 아키텍처
 <img width="416" alt="스크린샷 2024-10-22 오후 7 54 41" src="https://github.com/user-attachments/assets/b49da97e-04b4-4f00-9a74-e593b5d9a90f">
 <br>
+<br>
 
 ## 내가 한 역할
 1. 경매 & 식사권 스케줄링
