@@ -17,7 +17,6 @@ VIP And Rendezvous는 워렌 버핏의 파워 런치 옥션에 영감을 받아 
 - Redis
 - Quartz
 - Spring Security, OAuth2, JWT
-- Thymeleaf
 - Gradle
 <br>
 
